@@ -43,6 +43,21 @@
 		"postiDisponibili": "100",
 		"descrizione": "Presentazione della azienda Fincantieri in presenza del responsabile Risorse Umane.\nA seguire consegna dei CV",
 		"imm": "http://slideplayer.it/slide/587948/2/images/4/L%E2%80%99azienda+FINCANTIERI.jpg"
+    },
+	{
+        "idAttivita": 3,
+        "nomeAttivita": "Prova",
+		"categoria" : "Lavoro",
+        "dataIn": "06-05-2018",
+        "dataFin": "06-05-2018",
+		"oraIn": "09:00",
+		"oraFin": "10:30",
+		"idOrg": [8],
+		"idLuogo": 9,
+		"prezzo": 0,
+		"postiDisponibili": "100",
+		"descrizione": "",
+		"imm": "http://slideplayer.it/slide/587948/2/images/4/L%E2%80%99azienda+FINCANTIERI.jpg"
     }
 
 ]
