@@ -1,1 +1,0 @@
-export default Eventi = require("../database_json/datEventi.json");
