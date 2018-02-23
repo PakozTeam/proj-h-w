@@ -1,0 +1,48 @@
+[
+	{
+        "idAttivita": 0,
+        "nomeAttivita": "Presentazione Azienda Lube Cucine",
+		"categoria" : "Lavoro",
+        "dataIn": "05-05-2018",
+        "dataFin": "05-05-2018",
+		"oraIn": "10:00",
+		"oraFin": "11:00",
+		"idOrg": [8],
+		"idLuogo": 9,
+		"prezzo": 0,
+		"postiDisponibili": "100",
+		"descrizione": "Presentazione della azienda Lube Cucine in presenza del responsabile Risorse Umane.\nA seguire consegna dei CV",
+		"imm": "http://www.cucinelube.it/public/images/af0d69493efdbbda0e70f56e7b6c7044.jpg"
+    },
+	{
+        "idAttivita": 1,
+        "nomeAttivita": "Presentazione Azienda Scavolini Cucine",
+		"categoria" : "Lavoro",
+        "dataIn": "05-05-2018",
+        "dataFin": "05-05-2018",
+		"oraIn": "12:00",
+		"oraFin": "13:00",
+		"idOrg": [8],
+		"idLuogo": 9,
+		"prezzo": 0,
+		"postiDisponibili": "100",
+		"descrizione": "Presentazione della azienda Scavolini Cucine in presenza del responsabile Risorse Umane.\nA seguire consegna dei CV",
+		"imm": "http://www.cucinelube.it/public/images/af0d69493efdbbda0e70f56e7b6c7044.jpg"
+    },
+	{
+        "idAttivita": 2,
+        "nomeAttivita": "Presentazione Azienda Fincantieri",
+		"categoria" : "Lavoro",
+        "dataIn": "06-05-2018",
+        "dataFin": "06-05-2018",
+		"oraIn": "09:00",
+		"oraFin": "10:30",
+		"idOrg": [8],
+		"idLuogo": 9,
+		"prezzo": 0,
+		"postiDisponibili": "100",
+		"descrizione": "Presentazione della azienda Fincantieri in presenza del responsabile Risorse Umane.\nA seguire consegna dei CV",
+		"imm": "http://slideplayer.it/slide/587948/2/images/4/L%E2%80%99azienda+FINCANTIERI.jpg"
+    }
+
+]

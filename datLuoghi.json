@@ -1,0 +1,111 @@
+[
+	{"idLuogo": 0,
+	 "nomeLuogo": "Unipol Arena Bologna",
+	 "imm":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Unipol_Arena_2014.jpg/1200px-Unipol_Arena_2014.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	 "lat": 44.4858815,
+	 "longi":11.2459718,
+	 "indirizzo":"Via Gino Cervi 2, 40033 Casalecchio di Reno (BO)"
+	 },
+	{
+	"idLuogo": 1,
+	 "nomeLuogo": "Stadio Sant'Elia",
+	 "imm":"https://www.repstatic.it/content/nazionale/img/2013/10/18/182236403-f847a145-9814-4558-8c8b-4a6b7ab3c289.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 39.1924348,
+	 "longi":9.1390156,
+	 "indirizzo":"Cagliari, via Amerigo Vespucci"
+	 },
+	{
+	"idLuogo": 2,
+	 "nomeLuogo": "Assago Forum",
+	 "imm":"http://cdn-media.ingegneri.info/wp-content/uploads/2016/08/01-1024x499.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 45.4004104,
+	 "longi":9.1437772,
+	 "indirizzo":"Milano, Via Giuseppe di Vittorio, 6"
+	 },
+	{
+	"idLuogo": 3,
+	 "nomeLuogo": "Stadio Olimpico",
+	 "imm":"http://aimholidays.co.nz/wp-content/uploads/2016/11/Stadio-Olimpico-Roma-During-The-Game.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 41.934081,
+	 "longi":12.4525363,
+	 "indirizzo":"Roma, Viale dei Gladiatori"
+	 },
+	{
+	"idLuogo": 4,
+	 "nomeLuogo": "PalaPrometeo",
+	 "imm":"http://www.visconcordiamorrovalle.it/foto/grandi/dcnjjdtxkaaehw2.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 43.5664579,
+	 "longi":13.5244918,
+	 "indirizzo":"Ancona"
+	 },
+	{
+	"idLuogo": 5,
+	 "nomeLuogo": "Piazza del Popolo",
+	 "imm":"http://www.gazzettadelgusto.it/wp-content/uploads/2017/06/Sagra-del-Cinghiale-Modigliana-2017.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 43.9084699,
+	 "longi":12.9106887,
+	 "indirizzo":"Pesaro, Piazza del Popolo"
+	 },
+	{
+	"idLuogo": 6,
+	 "nomeLuogo": "Piazza Duomo, Milano",
+	 "imm":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg/350px-Milano%2C_Duomo_with_Milan_Cathedral_and_Galleria_Vittorio_Emanuele_II%2C_2016.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 45.4642144,
+	 "longi":9.1878254,
+	 "indirizzo":"Piazza Duomo, Milano (MI)"
+	 },
+	{
+	"idLuogo": 7,
+	 "nomeLuogo": "Palasport Eurosuole Forum",
+	 "imm":"https://cdn.cronachemaceratesi.it/wp-content/uploads/2015/09/eurosuole-forum.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 43.2956406,
+	 "longi":13.697416,
+	 "indirizzo":"Civitanova Marche, Via Sandro Pertini, 8"
+	 },
+	{
+	"idLuogo": 8,
+	 "nomeLuogo": "Palasport Kioene Arena",
+	 "imm":"http://pallavolopadova.com/wp-content/uploads/2012/03/kioene_prospettiva.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 45.4180183,
+	 "longi":11.9204714,
+	 "indirizzo":"Padova, Via S. Marco, 53"
+	 },
+	{
+	"idLuogo": 9,
+	 "nomeLuogo": "Facoltà di Ingegneria. Univpm",
+	 "imm":"http://www.univpm.it/Entra/Immagini/Photogallery/F_6779/scalinata_g.jpg",
+	 "mappaIntPres":false,
+	 "mappaInt":"",
+	 "descrizione":"descrizione",
+	  "lat": 43.5867829,
+	 "longi":13.5144063,
+	 "indirizzo":"Ancona, Via Brecce Bianche, 2"
+	 }
+]

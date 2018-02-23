@@ -1,0 +1,94 @@
+[
+	{"idOspite": 0,
+	"nomeOspite":"Caparezza",
+	"foto":"https://frequenzedigenere.files.wordpress.com/2012/11/caparezza1.jpg",
+	"categoria":"Cantante",
+	"descrizione":"cantante 1",
+	"contatti": "123456789"
+	},
+	{
+	"idOspite": 1,
+	"nomeOspite": "Ligabue",
+	"foto":"https://www.repstatic.it/content/nazionale/img/2015/04/13/132633532-7b064f69-e5af-408b-a371-380488dceb7e.jpg",
+	"categoria":"Cantante",
+	"descrizione":"Cantante 2",
+	"contatti": "987654321"
+	},
+	{
+	"idOspite": 2,
+	"nomeOspite": "U2",
+	"foto":"https://www.eventinbus.com/blog/wp-content/uploads/2018/01/u2.jpg",
+	"categoria":"Cantante",
+	"descrizione":"Cantante 3",
+	"contatti": "012345678"
+	},
+	{
+	"idOspite": 3,
+	"nomeOspite": "Metallica",
+	"foto":"https://www.onstageweb.com/wp-content/uploads/2016/10/metallica-nuovo-singolo-maschera.jpg",
+	"categoria":"Cantante",
+	"descrizione":"Cantante 4",
+	"contatti": "123456788"
+	},
+	{
+	"idOspite": 4,
+	"nomeOspite": "Enrico Brignano",
+	"foto":"http://biografieonline.it/img/bio/e/Enrico_Brignano.jpg",
+	"categoria":"Comico",
+	"descrizione":"Comico 1",
+	"contatti": "123454788"
+	},
+	{
+	"idOspite": 5,
+	"nomeOspite": "Bandabardo'",
+	"foto":"http://www.pratosfera.com/wp-content/uploads/2017/04/BANDABARDO-prato.jpg",
+	"categoria":"Cantante",
+	"descrizione":"La Bandabardò è un gruppo fiorentino di rock e folk principalmente acustico formatosi nel 1993, il cui nome è un omaggio a Brigitte Bardot.\nLa Bandabardò nasce l'8 marzo 1993. La neonata band comincia un tour in Italia e in Francia suonando per locali e anche per strada.",
+	"contatti": "025834953"
+	},
+	{
+	"idOspite": 6,
+	"nomeOspite": "Lube Volley",
+	"foto":"https://www.ilmartino.it/wp-content/uploads/2017/03/vwtFtbVM.jpg",
+	"categoria":"Squadra",
+	"descrizione":"L'Associazione Sportiva Volley Lube è una società pallavolistica maschile italiana con sede a Treia: milita nel campionato di Serie A1.",
+	"contatti": "015397855"
+	},
+	{
+	"idOspite": 7,
+	"nomeOspite": "Calzedonia Verona Volley",
+	"foto":"https://www.bluvolleyverona.it/public/img/serie-b-il-roster-della-calzedonia-verona-si-compl-6461.jpg",
+	"categoria":"Squadra",
+	"descrizione":"Il Blu Volley Verona è una società pallavolistica maschile italiana con sede a Verona: milita nel campionato di Serie A1.",
+	"contatti": "015397855"
+	},
+	{
+	"idOspite": 8,
+	"nomeOspite": "Kioene Padova Volley",
+	"foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6-5-IoFbnYTrpIAI6D6IKTZfwfIFZiAzW2ojpKKIIl5OMYJK52Q",
+	"categoria":"Squadra",
+	"descrizione":"La Pallavolo Padova è una società pallavolistica maschile italiana con sede a Padova: milita nel campionato di Serie A1.",
+	"contatti": "02853541"
+	},
+	{"idOspite": 9,
+	"nomeOspite":"Lube Cucine",
+	"foto":"https://www.cucineluberoma.it/wp-content/uploads/2015/03/logo-lube-900-roma.jpg",
+	"categoria":"Azienda",
+	"descrizione":"Cucine Lube s.r.l. è un'azienda italiana con sede e stabilimento a Treia, che produce cucine componibili e complementi d'arredo.",
+	"contatti": "03875214"
+	},
+	{"idOspite": 10,
+	"nomeOspite":"Scavolini Cucine",
+	"foto":"http://alpearredi.it/images/logo_scavolini.gif",
+	"categoria":"Azienda",
+	"descrizione":"Scavolini è un'azienda che opera nel mercato italiano dei mobili da cucina da oltre 50 anni ed esporta a livello internazionale in oltre 50 paesi.",
+	"contatti": "02577322"
+	},
+	{"idOspite": 11,
+	"nomeOspite":"Fincantieri",
+	"foto":"http://www.connection-e.com/sites/default/files/styles/large/public/logo-fincantieri.jpg?itok=sXbX03mp",
+	"categoria":"Azienda",
+	"descrizione":"Fincantieri S.p.A. è un'azienda pubblica italiana operante nel settore della cantieristica navale ed è attualmente uno dei più importanti complessi cantieristici navali d'Europa e del mondo.",
+	"contatti": "02854333"
+	}
+]

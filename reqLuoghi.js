@@ -1,0 +1,1 @@
+export default Luoghi = require("../database_json/datLuoghi.json");
