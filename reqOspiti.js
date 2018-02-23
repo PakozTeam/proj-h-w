@@ -1,1 +1,0 @@
-export default Ospiti = require("../database_json/datOspiti.json");
