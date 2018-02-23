@@ -1,1 +1,0 @@
-export default Sponsor = require("../database_json/datSponsor.json");
